@@ -1,6 +1,6 @@
 
 void setup(){
-  surface.setTitle("Surprised Cat Virtual Pet");
+  
 }
 void draw(){
   size(400,400);
